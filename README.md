@@ -1,2 +1,2 @@
 # test-repo
-Coursera Data Scientist 
+Coursera IBM Git
